@@ -1,0 +1,11 @@
+.DS_Store
+._*
+*.o
+obj/
+*~
+core
+
+/task2_300/task2
+/task3_300/task3
+/task4_300/task4
+/task5_300/task5
